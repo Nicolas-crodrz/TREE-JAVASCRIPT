@@ -37,7 +37,7 @@ The functions that I have created have been 2:
      In this function we will basically start what is the path, shadow color, fill and movement/rotation of the starting point.
 
 * *generatetree*
-  
+ 
      What this function does is generate a new tree by changing the parameters randomly.
 
      NOTE: This function will only be called every time we press the button.
